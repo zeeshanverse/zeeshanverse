@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge" />
   </a>
   <a href="mailto:mohammedzeeshan9577@gmail.com">
-    <img src="https://img.shields.io/badge/✉%20GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
@@ -158,17 +158,15 @@ backend engineering and full-stack development.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zeeshanverse&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanverse&layout=compact&hide_border=true&theme=github_dark"
-    height="170"
-  />
+  <a href="https://github.com/zeeshanverse">
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/zeeshanverse?tab=stars">
+    <img src="https://img.shields.io/badge/Explore-My%20Work-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -204,14 +202,6 @@ backend engineering and full-stack development.
 
 `DSA` → `Spring Security` → `Spring AI` → `Docker` → `Microservices` → `React`
 
-</p>
-
----
-
-## 📈 GitHub Contribution
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshanverse&theme=github-compact&hide_border=true" />
 </p>
 
 ---
