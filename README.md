@@ -14,9 +14,9 @@
   <a href="https://www.linkedin.com/in/zeeshanmohd/">
     <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge" />
   </a>
-  <a href="mailto:mohammedzeeshan9577@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohammedzeeshan9577@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -215,7 +215,7 @@ backend engineering and full-stack development.
   <a href="https://github.com/zeeshanverse">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:mohammedzeeshan9577@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohammedzeeshan9577@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
