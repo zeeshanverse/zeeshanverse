@@ -1,184 +1,180 @@
-<div align="center">
-
-# 👋 Mohammed Zeeshan
-
-### `Java Full-Stack Engineer` · `Backend Engineer` · `AI Systems Builder`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+software+that+actually+does+something.;Java+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL;Exploring+AI+Agents+%26+Voice+AI;From+idea+%E2%86%92+architecture+%E2%86%92+working+system." />
-
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════════════ --><!--                    MOHAMMED ZEESHAN • GITHUB PROFILE                  --><!-- ═══════════════════════════════════════════════════════════════════════ --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Mohammed%20Zeeshan&fontSize=42&fontAlignY=38&desc=Java%20Full-Stack%20Engineer%20%7C%20Backend%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=62&descSize=16&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&animation=fadeIn" width="100%"/><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+software+that+actually+does+something.;Java+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL;Engineering+backend+systems+%26+AI-powered+applications;AI+Agents+%7C+Voice+AI+%7C+Agentic+Systems;Idea+%E2%86%92+Architecture+%E2%86%92+Working+System" /><br/><br/>
 
 <a href="https://portfolio-2-web-five.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge"/>
 </a>
 <a href="https://github.com/zeeshanverse">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/zeeshanmohd/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/LeetZeeshan/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+</a><br/><br/>
 
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=zeeshanverse&label=Profile%20Views&color=36BCF7&style=flat-square"/></div>---
 
-<img src="https://komarev.com/ghpvc/?username=zeeshanverse&label=Profile%20Views&color=36BCF7&style=flat"/>
+👨‍💻 "whoami"
 
-</div>
+Mohammed Zeeshan
+├── 🎓 Computer Science & Engineering (AI)
+├── ☕ Java Full-Stack Engineer
+├── ⚙️ Backend Engineering
+├── 🤖 AI Systems & Agentic Applications
+└── 🧠 Always building, debugging and learning
 
----
+I build full-stack systems with strong backend foundations, primarily around Java, Spring Boot and PostgreSQL, while exploring the intersection of software engineering and AI.
 
-## 🧠 About Me
+I care about more than making a UI look good.
 
-I'm a **Computer Science & Engineering (AI) graduate** building my career around **Java backend engineering, full-stack development and AI-powered systems**.
+Architecture → Business Logic → APIs → Database → Security → AI → Product
 
-My core stack:
-
-`Java` · `Spring Boot` · `Spring Security` · `React` · `TypeScript` · `PostgreSQL`
-
-Currently exploring:
-
-`AI Agents` · `Agentic Systems` · `Voice AI` · `Vector Search` · `System Design`
-
-I like building complete systems — not just interfaces.
-
-> **Idea → Architecture → Backend → Database → API → AI → Product**
+«Don't just write code. Understand the system.»
 
 ---
 
-## ⚡ What I Build
+⚡ "stack"
 
-| Backend              | Full-Stack            | AI               |
-| -------------------- | --------------------- | ---------------- |
-| ☕ Java / Spring Boot | ⚛️ React / TypeScript | 🤖 AI Agents     |
-| 🔐 Spring Security   | 🔌 REST APIs          | 🎙️ Voice AI     |
-| 🗄️ PostgreSQL       | 🧩 Business Logic     | 🧠 AI Workflows  |
-| 🔄 Transactions      | 🐳 Docker             | 🔎 Vector Search |
-
----
-
-# 🚀 Featured Work
-
-### 🤖 AI-Crew
-
-**AI-powered company operating system**
-
-A multi-agent workspace exploring how specialized AI agents can operate across business workflows.
-
-`React` `TypeScript` `Java` `Spring Boot` `Python` `PostgreSQL` `pgvector` `Docker`
-
-**Agents:** `CEO` · `Manager` · `Business Analyst` · `Engineer` · `Research`
-
-🔗 **[Repository →](https://github.com/zeeshanverse/AI-Crew)**
+<div align="center"><img src="https://skillicons.dev/icons?i=java,spring,python,cpp,js,ts,react,html,css,postgres,mysql,sqlite,docker,git,github,vscode,idea,postman" /></div><br/>Backend| Full-Stack| AI / Intelligent Systems
+☕ Java| ⚛️ React| 🤖 AI Agents
+🌱 Spring Boot| 🟦 TypeScript| 🎙️ Voice AI
+🔐 Spring Security| 🔌 REST APIs| 🧠 Agentic Workflows
+🗄️ PostgreSQL| 🐳 Docker| 🔎 Vector Search
 
 ---
 
-### 🎙️ VoxFlow AI
+🚀 "featured_work"
 
-**Voice AI · Interview Assistant · Full-Stack**
+🤖 AI-Crew
 
-A voice-first application combining React, Spring Boot, speech processing and AI assistant logic.
+AI-powered company operating system
 
-```text
-Voice → STT → Spring Boot → AI Logic → TTS → Voice
-```
+A multi-agent workspace exploring how specialized AI agents can operate across real business workflows.
 
-`React` `TypeScript` `Java` `Spring Boot` `PostgreSQL` `Speech AI`
+Goals → Projects → Tasks → Business → Finance → Knowledge
+                              ↓
+                       AI OPERATIONS
+                              ↓
+                CEO · Manager · Analyst
+                Engineer · Research
+                              ↓
+                     Human Approval
+                              ↓
+                       Action Audit
 
-🔗 **[Repository →](https://github.com/zeeshanverse/VoxFlow-AI)**
+"React" "TypeScript" "Java" "Spring Boot" "Python" "PostgreSQL" "pgvector" "Docker"
 
----
-
-### 🏦 Banking System
-
-**Secure Java + Spring Boot backend**
-
-Authentication, account management, deposits, withdrawals, transfers and transaction management.
-
-`Java` `Spring Boot` `Spring Security` `JWT` `JPA` `Hibernate` `PostgreSQL`
-
-🔗 **[Repository →](https://github.com/zeeshanverse/banking-system-springboot)**
+→ "Explore AI-Crew" (https://github.com/zeeshanverse/AI-Crew)
 
 ---
 
-### 👁️ Smart Attendance
+🎙️ VoxFlow AI
 
-**Face Recognition Attendance System**
+Voice AI · Interview Assistant · Full-Stack
 
-Computer-vision based attendance platform using facial recognition and persistent attendance records.
+Building a voice-first application that combines React, Spring Boot, speech processing and intelligent assistant logic.
 
-`Python` `Flask` `OpenCV` `dlib` `NumPy` `MySQL` `SQLite`
+🎙️ Voice
+   ↓
+STT
+   ↓
+Spring Boot
+   ↓
+AI / Intent Logic
+   ↓
+TTS
+   ↓
+🔊 Voice Response
 
----
+"React" "TypeScript" "Java" "Spring Boot" "PostgreSQL" "Speech AI"
 
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,cpp,js,ts,react,html,css,postgres,mysql,sqlite,docker,git,github,vscode,idea,postman" />
-
-</div>
-
----
-
-## 🧩 Currently Building
-
-```text
-        ┌──────────────────────────┐
-        │     SOFTWARE ENGINEER    │
-        └────────────┬─────────────┘
-                     │
-        ┌────────────┼────────────┐
-        ▼            ▼            ▼
-     BACKEND      FULL-STACK      AI
-        │            │            │
-   Java/Spring    React/TS     Agents
-   PostgreSQL     REST APIs    Voice AI
-   Security       Docker       AI Workflows
-        │            │            │
-        └────────────┼────────────┘
-                     ▼
-              REAL-WORLD SYSTEMS
-```
-
-### 🎯 Current Focus
-
-`Java` `Spring Boot` `System Design` `DSA` `AI Engineering` `PostgreSQL`
+→ "Explore VoxFlow AI" (https://github.com/zeeshanverse/VoxFlow-AI)
 
 ---
 
-## 💭 Engineering Philosophy
+🏦 Banking System
 
-> **Don't just write code. Understand the system.**
+Secure Java + Spring Boot backend
 
-```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Improve
-  ↺
-```
+A backend system covering authentication, account management and transactional operations.
+
+"Java" "Spring Boot" "Spring Security" "JWT" "JPA" "Hibernate" "PostgreSQL"
+
+→ "Explore Banking System" (https://github.com/zeeshanverse/banking-system-springboot)
 
 ---
 
-<div align="center">
+👁️ Smart Attendance
 
-### ⚡ Learn · Build · Break · Debug · Improve · Repeat.
+Face Recognition Attendance Platform
 
-<br/>
+Computer-vision based attendance system combining facial recognition, backend services and persistent records.
+
+"Python" "Flask" "OpenCV" "dlib" "NumPy" "MySQL" "SQLite"
+
+---
+
+🧭 "current_direction"
+
+                         SOFTWARE ENGINEERING
+                                  │
+              ┌───────────────────┼───────────────────┐
+              ▼                   ▼                   ▼
+           BACKEND            FULL-STACK              AI
+              │                   │                   │
+        Java / Spring          React / TS        AI Agents
+        PostgreSQL             REST APIs          Voice AI
+        Security               Docker             AI Workflows
+              │                   │                   │
+              └───────────────────┼───────────────────┘
+                                  ▼
+                         REAL-WORLD SYSTEMS
+
+Currently sharpening
+
+"Java" · "Spring Boot" · "System Design" · "DSA" · "PostgreSQL" · "AI Engineering"
+
+---
+
+📊 "github_activity"
+
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=zeeshanverse&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanverse&layout=compact&hide_border=true&theme=transparent&langs_count=8" /></div><br/><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanverse&theme=transparent&hide_border=true" /></div>---
+
+🧠 "engineering_loop"
+
+       ┌─────────┐
+       │  LEARN  │
+       └────┬────┘
+            ↓
+       ┌─────────┐
+       │  BUILD  │
+       └────┬────┘
+            ↓
+       ┌─────────┐
+       │  BREAK  │
+       └────┬────┘
+            ↓
+       ┌─────────┐
+       │ DEBUG   │
+       └────┬────┘
+            ↓
+       ┌─────────┐
+       │ IMPROVE │
+       └────┬────┘
+            │
+            └──────────────↺
+
+«Learn → Build → Break → Debug → Improve → Repeat.»
+
+---
+
+<div align="center">Let's build something interesting.
 
 <a href="https://portfolio-2-web-five.vercel.app/">
-<img src="https://img.shields.io/badge/Explore%20My%20Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a><a href="mailto:mohammedzeeshan9577@gmail.com">
+<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><br/><br/>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7B2FF7&height=90&section=footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2c5364,50:203a43,100:0f2027"/></div>
