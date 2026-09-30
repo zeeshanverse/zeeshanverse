@@ -137,9 +137,38 @@ Currently sharpening
 
 ---
 
-📊 "github_activity"
+## 📊 `github_activity`
 
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=zeeshanverse&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanverse&layout=compact&hide_border=true&theme=transparent&langs_count=8" /></div><br/><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanverse&theme=transparent&hide_border=true" /></div>---
+<div align="center">
+
+<a href="https://github.com/zeeshanverse">
+  <img
+    src="https://YOUR-GITHUB-STATS-DOMAIN/api?username=zeeshanverse&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"
+    height="170"
+    alt="Mohammed Zeeshan GitHub Stats"
+  />
+</a>
+
+<a href="https://github.com/zeeshanverse">
+  <img
+    src="https://YOUR-GITHUB-STATS-DOMAIN/api/top-langs/?username=zeeshanverse&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+    height="170"
+    alt="Mohammed Zeeshan Top Languages"
+  />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanverse&theme=transparent&hide_border=true"
+  alt="Mohammed Zeeshan GitHub Streak"
+/>
+
+</div>
 
 🧠 "engineering_loop"
 
