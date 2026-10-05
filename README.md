@@ -66,8 +66,8 @@ I care about more than making software work.
 - 🥇 **1500 LeetCode contest rating**
 - ☕ Primary problem-solving language: **Java**
 - 💻 Built and documented **6 portfolio projects** across backend, full-stack, computer vision and AI
-- 🤖 Building **AI-Crew**, a multi-agent AI company operations platform
-- 🎙️ Building **VoxFlow AI**, a voice AI and interview assistant
+- 🤖 Built **AI-Crew**, a multi-agent AI company operations platform
+- 🎙️ Built **VoxFlow AI**, a voice AI and interview assistant
 - 🚀 Actively developing production-oriented applications with **Spring Boot, PostgreSQL and Docker**
 
 ---
