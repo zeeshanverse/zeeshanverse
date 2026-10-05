@@ -13,7 +13,8 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a><br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=zeeshanverse&label=Profile%20Views&color=36BCF7&style=flat-square"/></div>---
+<!-- <img src="https://komarev.com/ghpvc/?username=zeeshanverse&label=Profile%20Views&color=36BCF7&style=flat-square"/> -->
+</div>---
 
 👨‍💻 "whoami"
 
