@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+software+that+actually+does+something.;Java+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL;Engineering+backend+systems+%26+AI-powered+applications;AI+Agents+%7C+Voice+AI+%7C+Agentic+Systems;Idea+%E2%86%92+Architecture+%E2%86%92+Working+System" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=820&lines=Building+software+that+actually+does+something.;Java+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL+%7C+FastAPI;Backend+systems+%C2%B7+ML-serving+APIs+%C2%B7+AI+agents;Fraud+Risk+Engine+%C2%B7+Recommendation+Ranking+%C2%B7+Voice+AI;Idea+%E2%86%92+Architecture+%E2%86%92+Tested+Working+System" />
 
 <br/><br/>
 
@@ -38,25 +38,27 @@
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech in Computer Science & Engineering (AI)** from Pranveer Singh Institute of Technology
+🎓 **Final-year B.Tech in Computer Science & Engineering (AI)** at Pranveer Singh Institute of Technology, Kanpur (AKTU)
 
 ☕ **Java Full-Stack Software Engineer** focused on backend engineering and scalable application development
 
-⚙️ Building backend systems with **Java, Spring Boot, REST APIs, Spring Security and PostgreSQL**
+⚙️ I build backend systems with **Java 21, Spring Boot, REST APIs, Spring Security, Spring Data JPA and PostgreSQL**
 
-⚛️ Building complete products using **React, TypeScript and modern frontend technologies**
+🔌 I design **service-to-service architectures**: a Java serving layer in front of Python/FastAPI scoring services, with validation, timeouts, error handling and tests
+
+⚛️ I ship complete products with **React, TypeScript and Vite**
 
 🤖 Exploring **AI Agents, Agentic AI, RAG, Voice AI and intelligent application workflows**
 
 🧠 Strong foundation in **DSA, OOP, DBMS, Operating Systems and Computer Networks**
 
-🚀 Currently building systems that combine **software engineering + AI**
-
 I care about more than making software work.
 
-**Architecture → Business Logic → APIs → Database → Security → AI → Product**
+**Architecture → Business Logic → APIs → Database → Security → Testing → AI → Product**
 
 > *"Don't just write code. Understand the system."*
+
+🎯 **Open to fresher roles:** Java Backend Engineer · Full-Stack Engineer · Software Engineer
 
 ---
 
@@ -65,10 +67,12 @@ I care about more than making software work.
 - 🧠 Solved **1,300+ DSA problems** across multiple coding platforms
 - 🥇 **1500 LeetCode contest rating**
 - ☕ Primary problem-solving language: **Java**
-- 💻 Built and documented **6 portfolio projects** across backend, full-stack, computer vision and AI
+- 💻 Built and documented **8 projects** across backend, full-stack, computer vision, fraud detection, recommendations and AI
+- 🛡️ Built **Ledger Sentinel**, a transaction fraud-risk engine (React · Spring Boot · FastAPI)
+- 🎯 Built **RecoForge**, a recommendation-ranking service with Courses and Movies modes
 - 🤖 Built **AI-Crew**, a multi-agent AI company operations platform
 - 🎙️ Built **VoxFlow AI**, a voice AI and interview assistant
-- 🚀 Actively developing production-oriented applications with **Spring Boot, PostgreSQL and Docker**
+- ✅ Writing real tests (JUnit 5, MockMvc, pytest) and shipping with Docker
 
 ---
 
@@ -78,19 +82,21 @@ I care about more than making software work.
 - 🔐 Building secure applications using **Spring Security, JWT and authentication flows**
 - 🧩 Improving **system design and backend architecture**
 - 🗄️ Designing reliable data models and APIs with **PostgreSQL**
+- 🧬 Upgrading RecoForge from keyword scoring to **embeddings and pgvector**
 - 🤖 Exploring **AI Agents, Agentic AI, RAG, ReAct and tool calling**
 - 🎙️ Building applications around **Voice AI and speech processing**
-- 🐳 Working with **Docker and production-oriented deployment**
-- 🧠 Continuously sharpening **DSA and software engineering fundamentals**
+- 🐳 Working with **Docker, microservices and production-oriented deployment**
+- 🧠 Continuously sharpening **DSA** (Striver's 450 sheet) and software engineering fundamentals
 
 ---
 
 ## 💡 What You Can Expect From Me
 
-- ✅ Ownership from **idea → implementation → deployment**
+- ✅ Ownership from **idea → implementation → testing → deployment**
 - ⚡ Strong focus on **fundamentals and problem solving**
 - 🧩 Backend-first engineering mindset
 - 🔐 Attention to security, data and API design
+- 🧪 Failure handling and tests, not just the happy path
 - 🤝 Clear communication and collaborative development
 - 🎯 Focus on **reliable, maintainable and scalable software**
 
@@ -116,7 +122,9 @@ I care about more than making software work.
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -126,6 +134,7 @@ I care about more than making software work.
 
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
@@ -142,6 +151,7 @@ I care about more than making software work.
 <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Multi--Agent%20Systems-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Voice%20AI-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Recommendation%20Systems-111827?style=for-the-badge"/>
 </p>
 
 ### 🗄️ Databases & Persistence
@@ -152,22 +162,83 @@ I care about more than making software work.
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-59666C?style=for-the-badge"/>
+</p>
+
+### 🧪 Testing & API Quality
+
+<p>
+<img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/MockMvc-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ### 🐳 Tools & Engineering
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
+
+## 🛡️ [Ledger Sentinel](https://github.com/zeeshanverse/Ledger-Sentinel)
+
+### Transaction fraud-risk engine · ALLOW / REVIEW / BLOCK decisions
+
+A three-tier system that scores a financial transaction for fraud risk and returns a decision with human-readable reasons. A React console sends the transaction to a Spring Boot API, which validates it and asks a FastAPI scoring service for a risk score.
+
+```text
+ React console ──► Spring Boot API ──► FastAPI risk scorer
+       ▲                 │                    │
+       │          validate · CORS ·           │
+       │          timeouts · errors           │
+       └──── decision + score + reasons ◄─────┘
+
+   score < 45%  →  ALLOW      45–80%  →  REVIEW      ≥ 80%  →  BLOCK
+```
+
+**Highlights:** decision thresholds with explainable reasons · animated risk gauge UI · structured JSON errors · health checks · Maven Wrapper · tests on both Java and Python sides
+
+**Tech Stack:** React · Vite · Java 21 · Spring Boot · FastAPI · Python · Maven · pytest · Docker
+
+→ **[Explore Ledger Sentinel](https://github.com/zeeshanverse/Ledger-Sentinel)**
+
+---
+
+## 🎯 [RecoForge](https://github.com/zeeshanverse/RecoForge)
+
+### Recommendation ranking service · Courses & Movies
+
+Describe a taste, give it a list of candidates, and get them ranked best-to-worst with a score and the exact words that matched. Built to show the architecture around a ranking step: validation, a serving layer, a separate scoring service, timeouts, error handling and tests.
+
+```text
+ React console ──► Spring Boot API ──► FastAPI scorer
+   Courses mode     validate · timeouts    token-cosine baseline
+   Movies mode      503 on scorer outage   (embeddings on roadmap)
+        ▲                                         │
+        └──────── ranked list + explainable matches ◄──┘
+```
+
+**Highlights:** two modes (Courses, Movies with Bollywood + Hollywood titles) · editable catalogue · highlighted matched keywords · List/Chart views · light & dark theme · JUnit 5, MockMvc, MockRestServiceServer and pytest suites · Docker Compose
+
+**Honest scope:** the scorer is a keyword-overlap cosine baseline. Embeddings, pgvector and Redis caching are the planned next steps.
+
+**Tech Stack:** React · Vite · Java 21 · Spring Boot · FastAPI · Python · Docker · Maven
+
+→ **[Explore RecoForge](https://github.com/zeeshanverse/RecoForge)**
+
+---
 
 ## 🤖 [AI-Crew](https://github.com/zeeshanverse/AI-Crew)
 
@@ -260,9 +331,9 @@ Features include student management, face registration, automated attendance mar
 
 ### Job Application Tracking System
 
-An in-progress application for organizing companies, roles, job links, application statuses and job-search statistics.
+An application for organizing companies, roles, job links, application statuses and job-search statistics. Spring Boot backend with a React + TypeScript + Vite frontend (frontend on Vercel, backend on Render).
 
-**Tech Stack:** HTML · CSS · JavaScript
+**Tech Stack:** Java · Spring Boot · React · TypeScript · Vite
 
 → **[Explore JobTrack](https://github.com/zeeshanverse)**
 
@@ -292,7 +363,7 @@ A food-ordering web application with menu browsing, cart management and order pl
         Java / Spring          React / TS         AI Agents
         PostgreSQL             REST APIs           RAG
         Security              Docker              Voice AI
-        System Design         APIs                 AI Workflows
+        System Design         Testing              Embeddings
               │                   │                   │
               └───────────────────┼───────────────────┘
                                   ▼
@@ -301,7 +372,13 @@ A food-ordering web application with menu browsing, cart management and order pl
 
 ### Currently Sharpening
 
-**Java** · **Spring Boot** · **System Design** · **DSA** · **PostgreSQL** · **Spring Security** · **AI Engineering** · **Agentic AI**
+**Java** · **Spring Boot** · **System Design** · **DSA** · **PostgreSQL** · **Spring Security** · **Docker & Microservices** · **AI Engineering** · **Agentic AI**
+
+---
+
+## 🎓 Education
+
+**B.Tech, Computer Science & Engineering (AI)** · Pranveer Singh Institute of Technology, Kanpur (AKTU, Lucknow) · Final year · CGPA 8.0 / 10
 
 ---
 
@@ -332,6 +409,7 @@ LangChain · LangGraph · AI Agents · Agentic AI · RAG · ReAct · Tool Callin
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=zeeshanverse&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Mohammed Zeeshan GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanverse&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
 
 </div>
 
