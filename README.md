@@ -266,7 +266,7 @@ A multi-agent system exploring how specialized AI agents can collaborate across 
                     HUMAN APPROVAL
                            │
                            ▼
-                     ACTION AUDIT
+                      ACTION AUDIT
 ```
 
 **Tech Stack:** React · TypeScript · Java · Spring Boot · Python · PostgreSQL · Docker
@@ -360,10 +360,10 @@ A food-ordering web application with menu browsing, cart management and order pl
               ▼                   ▼                   ▼
            BACKEND            FULL-STACK              AI
               │                   │                   │
-        Java / Spring          React / TS         AI Agents
-        PostgreSQL             REST APIs           RAG
-        Security              Docker              Voice AI
-        System Design         Testing              Embeddings
+         Java / Spring          React / TS         AI Agents
+         PostgreSQL             REST APIs           RAG
+         Security              Docker              Voice AI
+         System Design         Testing              Embeddings
               │                   │                   │
               └───────────────────┼───────────────────┘
                                   ▼
@@ -407,9 +407,6 @@ LangChain · LangGraph · AI Agents · Agentic AI · RAG · ReAct · Tool Callin
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanverse&theme=transparent&hide_border=true" alt="Mohammed Zeeshan GitHub Streak"/>
 
 <br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=zeeshanverse&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Mohammed Zeeshan GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanverse&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
 
 </div>
 
